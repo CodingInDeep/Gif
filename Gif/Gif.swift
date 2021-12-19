@@ -2,7 +2,7 @@
 //  Gif.swift
 //  Gif
 //
-//  Created by Deep Mahajan on 28/04/21.
+//  Created by Deep Mahajan.
 //
 
 import Foundation
